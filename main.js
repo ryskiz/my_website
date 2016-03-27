@@ -16,14 +16,14 @@ $(function (){
 	once       : false,
     continuous : true,
     onPassing : function(calculations){
-    	var newColor = 'rgba(186, 252, 241, ' + calculations.percentagePassed * 2 +')';
+    	var newColor = 'rgba(186, 252, 241, ' + calculations.percentagePassed * 1.5 +')';
       $(this).css('background-color', newColor);
   }
 })
 });
 $(function (){
 	$('#fullpage .section img,h1,p').visibility({
-    onTopVisible : function(calculations){
+    onBottomVisible : function(calculations){
     	$(this).transition({
     		animation :'fade up in', 
     		duration  :2000

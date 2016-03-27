@@ -20382,7 +20382,7 @@ Floated Menu / Item
   border: none;
   box-shadow: none;
   padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 0px;
 }
 
 /* Item */
