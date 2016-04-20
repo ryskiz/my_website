@@ -89,7 +89,7 @@ h4 {
 body {
   margin: 0;
 }
-a:visited{
+.inverted a:visited{
   color: white;
 }
 
