@@ -22,12 +22,11 @@ $(function (){
 })
 });
 $(function (){
-	$('#fullpage .section img,h1,p').visibility({
-    onBottomVisible : function(calculations){
-    	$(this).transition({
-    		animation :'fade up in', 
-    		duration  :2000
-    	});
-    }
-	})
+	window.sr = ScrollReveal({reset: true,duration:1000});
+	sr.reveal(".circular",100);
+    sr.reveal(".image");
+    sr.reveal("h1");
+    sr.reveal("h2");
+    sr.reveal("p");
+    //sr.reveal("a", {reset: true, duration: 1000});
 });
