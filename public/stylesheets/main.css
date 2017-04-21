@@ -212,7 +212,12 @@ img,
     padding: 0 50px 0 50px !important; }
   .myCard {
     margin: 0 auto 0 auto !important;
-    width: 100% !important; } }
+    width: 100% !important;
+    padding: 0 !important; }
+  .row.tight {
+    padding: 0 !important; }
+  .mobile-wrap {
+    padding: 0 15px 0 15px; } }
 
 .project-tight {
   margin-top: 25px;
