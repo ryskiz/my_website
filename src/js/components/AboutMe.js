@@ -23,7 +23,7 @@ const About = (props) => {
         <div className="col-sm-6 col-xs-12 text-center" style={{padding: "60px 0 0 0"}}>
           <div className="mobile-wrap">
             <h3>Hey! I'm Ryan Skinner, a full stack software engineer. I've been building applications in JavaScript for
-              the past 3 years and I just recently attended the Fullstack Acedemy of Code. When I'm not coding I'm
+              the past 3 years and I just recently attended the Fullstack Academy of Code. When I'm not coding I'm
               usually playing pool, eating a cheeseburger/slice of pizza, or I'm playing video games.</h3>
           </div>
         </div>
