@@ -13634,7 +13634,7 @@ var About = function About(props) {
           _react2.default.createElement(
             'h3',
             null,
-            'Hey! I\'m Ryan Skinner, a full stack software engineer. I\'ve been building applications in JavaScript for the past 3 years and I just recently attended the Fullstack Acedemy of Code. When I\'m not coding I\'m usually playing pool, eating a cheeseburger/slice of pizza, or I\'m playing video games.'
+            'Hey! I\'m Ryan Skinner, a full stack software engineer. I\'ve been building applications in JavaScript for the past 3 years and I just recently attended the Fullstack Academy of Code. When I\'m not coding I\'m usually playing pool, eating a cheeseburger/slice of pizza, or I\'m playing video games.'
           )
         )
       )
